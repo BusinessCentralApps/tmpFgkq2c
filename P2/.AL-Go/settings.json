@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
   "appFolders": [],
   "country": "us",
   "testFolders": [],

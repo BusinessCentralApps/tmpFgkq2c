@@ -1,8 +1,9 @@
 {
+  "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
   "useCompilerFolder": false,
   "doNotPublishApps": false,
-  "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
   "type": "AppSource App",
   "MicrosoftTelemetryConnectionString": "",
-  "templateUrl": "https://github.com/businesscentralapps/tmpDQopDM-AppSource@main"
+  "templateUrl": "https://github.com/businesscentralapps/tmpDQopDM-AppSource@main",
+  "templateSha": "32a804ffefffb780e2c50e98f6c227598057ea35"
 }
