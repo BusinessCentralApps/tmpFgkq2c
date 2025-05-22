@@ -2,7 +2,7 @@
   "id": "bd94d816-8538-4f84-85cd-6a1874385134",
   "url": "https://github.com/BusinessCentralApps/helloworld.appsource",
   "logo": "helloworld256x240.png",
-  "version": "1.0.0.0",
+  "version": "2.1.0.0",
   "features": [
     "TranslationFile"
   ],
