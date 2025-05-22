@@ -1,0 +1,8 @@
+{
+  "useCompilerFolder": false,
+  "doNotPublishApps": false,
+  "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
+  "type": "AppSource App",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateUrl": "https://github.com/businesscentralapps/tmpDQopDM-AppSource@main"
+}
